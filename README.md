@@ -1,4 +1,7 @@
 # example
 para probar cosas
-estoy apriendendo\
-hi
+estoy apriendendo
+cambio
+hola
+chao
+hola
